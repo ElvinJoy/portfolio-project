@@ -1,0 +1,102 @@
+body {
+  background-color: gray;
+  margin-top: 0;
+}
+
+.one {
+  height: 877px;
+  width: 250px;
+  border: 1px solid black;
+  background-color: #b39e9f;
+  padding: 20px;
+  float: left;
+}
+
+.photo {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin-left: 55px;
+  margin-top: 50px;
+}
+
+.profile {
+  font: bold;
+  margin-top: 70px;
+  margin-left: 40px;
+  font-size: 25px;
+}
+
+.paragraph {
+  margin-left: 40px;
+  margin-top: 10px;
+  font: bold;
+  font-size: 20px;
+}
+
+.contact {
+  font: bold;
+  margin-top: 80px;
+  margin-left: 40px;
+  font-size: 25px;
+}
+
+.logos {
+  height: 30px;
+  width: 30px;
+  margin-left: 2px;
+  margin-top: 10px;
+}
+
+ul > li {
+  list-style-type: none;
+  font-size: 17px;
+  margin-top: 20px;
+}
+
+.state {
+  margin-left: 36px;
+}
+
+.three {
+  border: 1px solid black;
+  height: 230px;
+  width: 750px;
+  background-color: #e0d4d4;
+}
+
+.three > h4 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.four {
+  border: 1px solid black;
+  height: 685px;
+  width: 750px;
+  background-color: #fff;
+  font-weight: bold;
+}
+
+.four li,h4{
+  margin-left: 10px;
+}
+.ed img {
+  height: 60px;
+  width: 80px;
+}
+
+.education {
+  font: bold;
+  font-size: 25px;
+  margin-top: 30px;
+  margin-left: 50px;
+  padding-left: 50px;
+  text-align: center;
+}
+
+.pro{
+  text-align: center;
+}
